@@ -1,4 +1,1 @@
-Kaio Rodrigues da Cunha - 1394485
-Eduardo Patrick de Andrade Pachêco - 1394264
-
 Instruções : Renderizar cenário e entrar na visão de câmera.
